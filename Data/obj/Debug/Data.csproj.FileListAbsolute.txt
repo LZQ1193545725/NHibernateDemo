@@ -1,0 +1,12 @@
+D:\Project\NHibernateDemo\Data\bin\Debug\Data.dll
+D:\Project\NHibernateDemo\Data\bin\Debug\Data.pdb
+D:\Project\NHibernateDemo\Data\bin\Debug\Domain.dll
+D:\Project\NHibernateDemo\Data\bin\Debug\Iesi.Collections.dll
+D:\Project\NHibernateDemo\Data\bin\Debug\NHibernate.dll
+D:\Project\NHibernateDemo\Data\bin\Debug\Domain.pdb
+D:\Project\NHibernateDemo\Data\bin\Debug\Iesi.Collections.xml
+D:\Project\NHibernateDemo\Data\bin\Debug\NHibernate.xml
+D:\Project\NHibernateDemo\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+D:\Project\NHibernateDemo\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+D:\Project\NHibernateDemo\Data\obj\Debug\Data.dll
+D:\Project\NHibernateDemo\Data\obj\Debug\Data.pdb

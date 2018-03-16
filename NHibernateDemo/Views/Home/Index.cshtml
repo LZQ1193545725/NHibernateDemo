@@ -1,0 +1,6 @@
+﻿@using Domain.Entities
+<h2>NHibernate Demo</h2>
+@foreach (var item in ViewBag.Data as List<Student>)
+{
+    <span>姓名：@item.Name</span> @Html.Raw("&nbsp;&nbsp;") <span>年龄：@item.Age</span><br />
+}
